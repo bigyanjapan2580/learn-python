@@ -1,3 +1,3 @@
-a=30
-b=6
-print("multipaction of two numbera & b =",a/b)
+a=10
+b=20
+print("the modules 0f a & b =",a%b)
