@@ -1,3 +1,3 @@
-a=5
+a=30
 b=6
-print("division of two number=",a*b)
+print("multipaction of two numbera & b =",a/b)
